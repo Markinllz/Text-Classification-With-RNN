@@ -4,8 +4,6 @@ Overview
 
 Text-Classification-With-RNN is a comprehensive developer tool designed to facilitate text categorization using recurrent neural networks. It provides an end-to-end pipeline that covers data loading, preprocessing, model training, and evaluation, making complex NLP tasks accessible and manageable.
 
-Why Text-Classification-With-RNN?
-
 This project aims to simplify the development of robust text classifiers with RNNs. The core features include:
 
 🧠 [Light Bulb] End-to-End Workflow: Seamlessly orchestrate data processing, model training, and evaluation within a single notebook.
